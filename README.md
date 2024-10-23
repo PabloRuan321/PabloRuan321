@@ -5,4 +5,4 @@ Meu nome é Pablo Ruan
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
   ![Narutin](https://media1.tenor.com/m/dXJB_7aIscAAAAAd/naruto-dancing.gif)
-  
+  - Estou estudando na [Alura](https://www.alura.com.br)
